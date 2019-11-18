@@ -1,0 +1,72 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="GitHunDAW.com" resolutions="1x" timestamp="1574003707683">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="descarga.css" crc="3934362094" ref="descarga"/>
+    <file name="acceso.css" crc="4284979265" ref="acceso"/>
+    <file name="conclusion.css" crc="30835372" ref="conclusion"/>
+    <file name="index.css" crc="106888115" ref="index"/>
+    <file name="tripas.css" crc="10721115" ref="tripas"/>
+    <file name="master_a-p_g_-maestra.css" crc="3952945954" ref="descarga:acceso:conclusion:index:tripas"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:tripas:descarga:conclusion:acceso"/>
+    <file name="museutils.js" crc="340535759" ref="index:tripas:descarga:conclusion:acceso"/>
+    <file name="whatinput.js" crc="86476730" ref="index:tripas:descarga:conclusion:acceso"/>
+    <file name="museconfig.js" crc="310584261" ref="index:tripas:descarga:conclusion:acceso"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:tripas:descarga:conclusion:acceso"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:tripas:descarga:conclusion:acceso"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:tripas:descarga:conclusion:acceso"/>
+    <file name="require.js" crc="7928878" ref="index:tripas:descarga:conclusion:acceso"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="acceso"/>
+    <file name="webpro.js" crc="4059564322" ref="acceso"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="acceso"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="acceso"/>
+    <file name="touchswipe.js" crc="4075097462" ref="acceso"/>
+  </folder>
+  <folder name="images">
+    <file name="logo2.jpg" crc="40140732" seo="true" ref="index:tripas:conclusion:descarga:acceso">
+      <caption webpage="index" alt=""/>
+      <caption webpage="conclusion" alt=""/>
+      <caption webpage="conclusion" alt=""/>
+      <caption webpage="tripas" alt=""/>
+      <caption webpage="descarga" alt=""/>
+      <caption webpage="acceso" alt=""/>
+    </file>
+    <file name="esquema 2.jpg" crc="31860377" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="esquema con git.jpg" crc="3856310166" seo="true" ref="tripas">
+      <caption webpage="tripas" alt=""/>
+    </file>
+    <file name="pagina-descargar.jpg" crc="3859320930" seo="true" ref="descarga">
+      <caption webpage="descarga" alt=""/>
+    </file>
+    <file name="descargado.jpg" crc="427646925" seo="true" ref="descarga">
+      <caption webpage="descarga" alt=""/>
+    </file>
+    <file name="instalando.jpg" crc="3777488515" seo="true" ref="descarga">
+      <caption webpage="descarga" alt=""/>
+    </file>
+    <file name="web.jpg" crc="89635326" ref="acceso">
+      <caption webpage="acceso" alt=""/>
+    </file>
+    <file name="web login.jpg" crc="394220551" ref="acceso">
+      <caption webpage="acceso" alt=""/>
+    </file>
+    <file name="menu repositiry-u1313-fr.jpg" crc="530819368" ref="acceso"/>
+    <file name="menu branch.png" crc="3919557514" ref="acceso">
+      <caption webpage="acceso" alt=""/>
+    </file>
+    <file name="interface1-u1067-fr.jpg" crc="4087982246" ref="acceso"/>
+    <file name="menu repositiry.jpg" crc="276327629" ref="acceso">
+      <caption webpage="acceso" alt=""/>
+    </file>
+    <file name="interface1-u1075-fr.jpg" crc="4082790339" ref="acceso"/>
+    <file name="menu branch-u1332-fr.png" crc="60054550" ref="acceso"/>
+  </folder>
+  <file name="index.html" crc="181802463" seo="true" mt="1574003318989" redirect="true"/>
+  <file name="tripas.html" crc="3888951096" seo="true" mt="1574003442700" redirect="true"/>
+  <file name="descarga.html" crc="4153124432" seo="true" mt="1574003542866" redirect="true"/>
+  <file name="conclusion.html" crc="388423292" seo="true" mt="1574003195162" redirect="true"/>
+  <file name="acceso.html" crc="3935504811" seo="true" mt="1574003697743" redirect="true"/>
+</manifest>
